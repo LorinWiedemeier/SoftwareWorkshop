@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: my_library
+Version: 0.1.0
+Author-email: Lorin Wiedemeier <wiedemeier@arche.ethz.ch>
+Requires-Python: >=3.10
+Requires-Dist: compas
