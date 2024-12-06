@@ -17,3 +17,6 @@ def my_other_function():
 
 def my_third_function():
     pass
+
+def my_fourth_function(): #AM MH branch test
+    pass
